@@ -1,0 +1,4 @@
+baseURL = 'https://coperbyte.com/'
+languageCode = 'en-us'
+title = 'Coperbyte Solutions'
+theme = 'ananke'
