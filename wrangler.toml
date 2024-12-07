@@ -1,0 +1,12 @@
+name = "coperbyte" # Replace with your project name
+main = "index.html" # Entry point of your application
+
+
+compatibility_date = "2024-01-01"
+account_id = "0fdb1b5fb7998fb7ad97636948874cec"
+zone_id = "e878d7c8c65154fbe42354c539ecb522"
+route = "https://coperbyte.com/*"
+
+[env.production]
+route = "https://coperbyte.com/*"
+
